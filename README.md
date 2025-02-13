@@ -10,7 +10,7 @@
 
 I'm passionate about building modern and scalable web applications. I specialize in frontend and backend development, crafting seamless user experiences, and optimizing performance. I enjoy solving complex problems and continuously learning new technologies to enhance my skill set. 
 
-I am particularly interested in full-stack development, working with **React.js, React Native, Node.js, Express.js, and MySQL** to create dynamic and responsive applications. Currently learning python. I also love collaborating with others to bring innovative ideas to life.
+I am particularly interested in full-stack development, working with **React.js, React Native, Node.js, Express.js, Python and MySQL** to create dynamic and responsive applications. I also love collaborating with others to bring innovative ideas to life.
 
 ---
 
