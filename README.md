@@ -19,7 +19,7 @@ I am particularly interested in full-stack development, working with **React.js,
   <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="CSS" width="50"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="50"/>
   <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/25082439/reactnative-inner.svg" alt="React.js" width="50"/>
-  <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s](https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png)" alt="Node js" width="50"/>
+  <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" alt="Node js" width="50"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlGmKtrnxElpqw3AExKXPWWBulcwjlvDJa1Q&s" alt="React Native" width="50"/>
   <img src="https://w7.pngwing.com/pngs/846/87/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo-thumbnail.png" alt="Node.js & Express.js" width="50"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGGT_pnMHJdps9fGjcDaFSqcfFxO2E7BQk4g&s" alt="MySQL" width="50"/>
