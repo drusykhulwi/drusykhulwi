@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Drusilla Khulwael
+# Hi there! 👋 I'm Drusilla Khulwael Wamalwa
 
 ![Profile Views](https://komarev.com/ghpvc/?username=drusykhulwi&label=Profile%20Views&color=0e75b6&style=flat)
 
