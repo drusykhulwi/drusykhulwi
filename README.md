@@ -47,7 +47,7 @@ I am particularly interested in full-stack development, working with **React.js,
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drusillakhulwael/)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=react&logoColor=white)](https://drusillakhulwael.vercel.app/)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:drusillakhulwael@gmail.com)
-[![Figma](https://www.figma.com/@drusykhulwi)
+[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/@drusykhulwi)
 
 
 ---
