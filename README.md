@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Drusilla Khulwael Wamalwa
+# Hi there! I'm Drusilla Khulwael Wamalwa
 
 ![Profile Views](https://komarev.com/ghpvc/?username=drusykhulwi&label=Profile%20Views&color=0e75b6&style=flat)
 
@@ -33,7 +33,7 @@ I am particularly interested in full-stack development, working with **React.js,
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=drusykhulwi&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
@@ -42,7 +42,7 @@ I am particularly interested in full-stack development, working with **React.js,
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drusillakhulwael/)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=react&logoColor=white)](https://drusillakhulwael.vercel.app/)  
@@ -52,4 +52,4 @@ I am particularly interested in full-stack development, working with **React.js,
 
 
 ---
-🚀 _Let's build something amazing together!_
+ _Let's build something amazing together!_
