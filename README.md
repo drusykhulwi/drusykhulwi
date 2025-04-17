@@ -1,5 +1,7 @@
 # Hi there! I'm Drusilla Khulwael Wamalwa
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=drusykhulwi&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=drusykhulwi&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## 🚀 About Me
